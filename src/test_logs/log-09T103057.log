@@ -1,0 +1,8 @@
+10:31:00.334 [main] INFO  com.phonebook.TestBase -- Hello* world @BeforeSuite
+10:31:00.468 [main] INFO  com.phonebook.TestBase -- Hello*** world @BeforeSuite
+10:31:05.197 [main] INFO  com.phonebook.TestBase -- Hello world.
+10:31:05.513 [main] INFO  com.phonebook.core.BaseHelper -- Click on element [By.xpath: //a[.='LOGIN']]
+10:31:05.805 [main] INFO  com.phonebook.core.BaseHelper -- Click on element [By.name: email]
+10:31:07.335 [main] INFO  com.phonebook.core.BaseHelper -- Click on element [By.name: password]
+10:31:07.633 [main] INFO  com.phonebook.core.BaseHelper -- Click on element [By.name: login]
+10:31:07.634 [main] INFO  com.phonebook.core.BaseHelper -- Проверка есть ли элемент [By.xpath: //button[.='Sign Out']] на странице

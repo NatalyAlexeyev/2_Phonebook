@@ -1,0 +1,6 @@
+18:37:29.956 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+18:37:32.321 [main] INFO  com.phonebook.TestBase -- Start test:[isHomeComponentPresentTest]
+18:37:33.601 [main] INFO  com.phonebook.TestBase -- User logged in before test execution.
+18:37:44.347 [main] INFO  com.phonebook.TestBase -- User logged out after test execution.
+18:37:44.674 [main] INFO  com.phonebook.TestBase -- Test is FAILED: [isHomeComponentPresentTest], Screenshot: [C:\46QA\2_Phonebook\src\test_screenshots\screen-1728491864350.png]
+18:37:44.698 [main] INFO  com.phonebook.TestBase -- All test end

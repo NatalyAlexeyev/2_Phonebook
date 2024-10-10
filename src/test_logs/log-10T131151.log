@@ -1,0 +1,10 @@
+13:11:54.287 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+13:11:57.784 [main] INFO  com.phonebook.TestBase -- Start test:[createAccountLoginPositiveTest]
+13:12:00.338 [main] INFO  com.phonebook.TestBase -- Test is started with data: []
+13:12:00.340 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountLoginPositiveTest]
+13:12:00.341 [main] INFO  com.phonebook.TestBase -- Test is ended: [createAccountLoginPositiveTest]
+13:12:00.345 [main] INFO  com.phonebook.TestBase -- Start test:[createAccountNegativeTest]
+13:12:01.066 [main] INFO  com.phonebook.TestBase -- Test is started with data: []
+13:12:01.069 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountNegativeTest]
+13:12:01.071 [main] INFO  com.phonebook.TestBase -- Test is ended: [createAccountNegativeTest]
+13:12:01.080 [main] INFO  com.phonebook.TestBase -- Start test:[createAccountPositiveTest1]

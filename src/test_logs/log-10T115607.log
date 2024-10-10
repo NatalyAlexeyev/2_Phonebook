@@ -1,0 +1,14 @@
+11:56:07.956 [Test worker] INFO  com.phonebook.TestBase -- Testing in progress...
+11:56:10.806 [Test worker] INFO  com.phonebook.TestBase -- Start test:[createAccountLoginPositiveTest]
+11:56:14.448 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+11:56:14.449 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountLoginPositiveTest]
+11:56:14.450 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [createAccountLoginPositiveTest]
+11:56:14.456 [Test worker] INFO  com.phonebook.TestBase -- Start test:[createAccountPositiveTest1]
+11:56:15.418 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+11:56:15.418 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountPositiveTest1]
+11:56:15.418 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [createAccountPositiveTest1]
+11:56:15.420 [Test worker] INFO  com.phonebook.TestBase -- Start test:[createAccountPositiveTest2]
+11:56:16.547 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+11:56:16.548 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountPositiveTest2]
+11:56:16.549 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [createAccountPositiveTest2]
+11:56:16.561 [Test worker] INFO  com.phonebook.TestBase -- All test end

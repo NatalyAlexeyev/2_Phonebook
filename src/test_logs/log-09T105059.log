@@ -1,0 +1,5 @@
+10:51:04.641 [main] INFO  com.phonebook.TestBase -- Hello world.
+10:51:04.754 [main] INFO  com.phonebook.TestBase -- Preconditions**
+10:51:06.536 [main] INFO  com.phonebook.TestBase -- Preconditions**
+10:51:06.542 [main] INFO  com.phonebook.TestBase -- Test****
+10:51:07.709 [main] INFO  com.phonebook.TestBase -- Preconditions**

@@ -1,0 +1,8 @@
+11:02:16.832 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+11:02:19.784 [main] INFO  com.phonebook.TestBase -- Start test:[addContactPositiveTest]
+11:02:38.869 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [addContactPositiveTest]
+11:02:38.870 [main] INFO  com.phonebook.TestBase -- Test is ended: [addContactPositiveTest]
+11:02:38.875 [main] INFO  com.phonebook.TestBase -- Start test:[addContactPositiveTest]
+11:02:57.416 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [addContactPositiveTest]
+11:02:57.416 [main] INFO  com.phonebook.TestBase -- Test is ended: [addContactPositiveTest]
+11:02:57.422 [main] INFO  com.phonebook.TestBase -- Start test:[addContactPositiveWODescriptionTest]

@@ -1,0 +1,8 @@
+11:32:52.944 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+11:32:57.251 [main] INFO  com.phonebook.TestBase -- Start test:[loginExistedUserPositiveTest1]
+11:32:58.942 [main] INFO  com.phonebook.TestBase -- End test:[loginExistedUserPositiveTest1]
+11:32:58.945 [main] INFO  com.phonebook.TestBase -- Start test:[loginExistedUserPositiveTest2]
+11:32:59.771 [main] INFO  com.phonebook.TestBase -- End test:[loginExistedUserPositiveTest2]
+11:32:59.773 [main] INFO  com.phonebook.TestBase -- Start test:[loginNegativeWOEmailTest]
+11:33:05.700 [main] INFO  com.phonebook.TestBase -- End test:[loginNegativeWOEmailTest]
+11:33:05.705 [main] INFO  com.phonebook.TestBase -- All test end

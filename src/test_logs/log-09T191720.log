@@ -1,0 +1,4 @@
+19:17:21.861 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+19:17:24.098 [main] INFO  com.phonebook.TestBase -- Start test:[isHomeComponentPresentTest]
+19:17:30.728 [main] INFO  com.phonebook.TestBase -- Test is FAILED: [isHomeComponentPresentTest], Screenshot: [C:\46QA\2_Phonebook\src\test_screenshots\screen-1728494250476.png]
+19:17:30.733 [main] INFO  com.phonebook.TestBase -- All test end

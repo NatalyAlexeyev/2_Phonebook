@@ -1,0 +1,18 @@
+13:24:09.491 [Test worker] INFO  com.phonebook.TestBase -- Testing in progress...
+13:24:11.562 [Test worker] INFO  com.phonebook.TestBase -- Start test:[createAccountNegativeTest]
+13:24:12.939 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+13:24:12.940 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountNegativeTest]
+13:24:12.941 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [createAccountNegativeTest]
+13:24:12.945 [Test worker] INFO  com.phonebook.TestBase -- Start test:[loginExistedUserPositiveTest1]
+13:24:13.929 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+13:24:13.931 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest1]
+13:24:13.932 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest1]
+13:24:13.935 [Test worker] INFO  com.phonebook.TestBase -- Start test:[loginExistedUserPositiveTest2]
+13:24:14.843 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+13:24:14.843 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2]
+13:24:14.844 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]
+13:24:14.846 [Test worker] INFO  com.phonebook.TestBase -- Start test:[loginExistedUserPositiveTest2]
+13:24:15.747 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: [password=Password1@, email=delete_account_1728559454851@gmail.com]
+13:24:15.749 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2]
+13:24:15.749 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]
+13:24:15.760 [Test worker] INFO  com.phonebook.TestBase -- All test end

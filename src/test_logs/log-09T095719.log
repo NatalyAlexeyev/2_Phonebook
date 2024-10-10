@@ -1,0 +1,8 @@
+09:57:20.904 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\natal\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+09:57:23.680 [main] INFO  com.phonebook.TestBase -- Hello world.
+09:57:23.810 [main] WARN  com.phonebook.core.BaseHelper -- Click on element [By.xpath: //a[.='LOGIN']]
+09:57:23.905 [main] WARN  com.phonebook.core.BaseHelper -- Click on element [By.name: email]
+09:57:24.152 [main] WARN  com.phonebook.core.BaseHelper -- Click on element [By.name: password]
+09:57:24.331 [main] WARN  com.phonebook.core.BaseHelper -- Click on element [By.name: login]

@@ -1,0 +1,15 @@
+10:46:55.647 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+10:46:59.122 [main] INFO  com.phonebook.TestBase -- Start test:[loginExistedUserPositiveTest1]
+10:47:01.005 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest1]
+10:47:01.006 [main] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest1]
+10:47:01.019 [main] INFO  com.phonebook.TestBase -- Start test:[loginExistedUserPositiveTest2]
+10:47:01.824 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2]
+10:47:01.825 [main] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]
+10:47:01.834 [main] INFO  com.phonebook.TestBase -- Start test:[loginExistedUserPositiveTest2]
+10:47:02.823 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2]
+10:47:02.823 [main] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]
+10:47:02.825 [main] INFO  com.phonebook.TestBase -- Start test:[loginNegativeWOEmailTest]
+10:47:03.761 [main] WARN  com.phonebook.core.BaseHelper -- Alert has text: [Wrong email or password]
+10:47:08.806 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [loginNegativeWOEmailTest]
+10:47:08.806 [main] INFO  com.phonebook.TestBase -- Test is ended: [loginNegativeWOEmailTest]
+10:47:08.812 [main] INFO  com.phonebook.TestBase -- All test end

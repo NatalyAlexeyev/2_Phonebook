@@ -1,0 +1,6 @@
+18:25:54.781 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+18:25:57.106 [main] INFO  com.phonebook.TestBase -- Start test:[createOneAndDeleteOneContactTest]
+18:26:15.831 [main] INFO  com.phonebook.TestBase -- Test:[createOneAndDeleteOneContactTest] PASSED
+18:26:15.838 [main] INFO  com.phonebook.TestBase -- Start test:[deleteAllContactTests]
+18:26:39.045 [main] INFO  com.phonebook.TestBase -- Test:[deleteAllContactTests] PASSED
+18:26:39.050 [main] INFO  com.phonebook.TestBase -- All test end

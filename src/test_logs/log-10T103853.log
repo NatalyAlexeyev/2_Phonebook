@@ -1,0 +1,6 @@
+10:38:54.577 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+10:38:57.205 [main] INFO  com.phonebook.TestBase -- Start test:[createAccountLoginPositiveTest]
+10:38:59.794 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountLoginPositiveTest]
+10:38:59.795 [main] INFO  com.phonebook.TestBase -- Test is ended: [createAccountLoginPositiveTest]
+10:38:59.799 [main] INFO  com.phonebook.TestBase -- Start test:[createAccountNegativeTest]
+10:39:00.985 [main] WARN  com.phonebook.core.BaseHelper -- Alert has text: [User already exist]

@@ -1,0 +1,6 @@
+12:47:21.258 [Test worker] INFO  com.phonebook.TestBase -- Testing in progress...
+12:47:48.440 [Test worker] INFO  com.phonebook.TestBase -- Start test:[createAccountNegativeTest]
+12:47:50.460 [Test worker] INFO  com.phonebook.TestBase -- Test is started with data: []
+12:47:50.460 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountNegativeTest]
+12:47:50.461 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [createAccountNegativeTest]
+12:47:50.468 [Test worker] INFO  com.phonebook.TestBase -- All test end

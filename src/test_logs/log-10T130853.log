@@ -1,0 +1,10 @@
+13:08:54.786 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+13:08:57.111 [main] INFO  com.phonebook.TestBase -- Start test:[createOneAndDeleteOneContactTest]
+13:09:23.139 [main] INFO  com.phonebook.TestBase -- Test is started with data: []
+13:09:23.140 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [createOneAndDeleteOneContactTest]
+13:09:23.141 [main] INFO  com.phonebook.TestBase -- Test is ended: [createOneAndDeleteOneContactTest]
+13:09:23.146 [main] INFO  com.phonebook.TestBase -- Start test:[deleteAllContactTests]
+13:09:47.727 [main] INFO  com.phonebook.TestBase -- Test is started with data: []
+13:09:47.729 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [deleteAllContactTests]
+13:09:47.729 [main] INFO  com.phonebook.TestBase -- Test is ended: [deleteAllContactTests]
+13:09:47.734 [main] INFO  com.phonebook.TestBase -- All test end

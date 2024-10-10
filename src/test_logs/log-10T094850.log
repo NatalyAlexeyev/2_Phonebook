@@ -1,0 +1,4 @@
+09:48:52.354 [main] INFO  com.phonebook.TestBase -- Testing in progress...
+09:48:57.714 [main] INFO  com.phonebook.TestBase -- Start test:[isHomeComponentPresentTest]
+09:48:57.959 [main] INFO  com.phonebook.TestBase -- Test:[isHomeComponentPresentTest] PASSED
+09:48:57.977 [main] INFO  com.phonebook.TestBase -- All test end
